@@ -4,7 +4,7 @@
 
 ## **Description**
 
-`akme.sh` is a **lightweight execution engine for Helix**, inspired by **Acme and Kakoune**. It brings **deep shell integration** to your editor, allowing you to **execute code, scripts, and commands inline—without plugins or external dependencies.**
+`akme.sh` is a **lightweight execution layer for Helix**, inspired by **Acme and Kakoune**. It brings **deep shell integration** to your editor, allowing you to **execute code, scripts, and commands inline—without plugins or external dependencies.**
 
 ### **Why does this matter?**
 
