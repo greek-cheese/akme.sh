@@ -134,9 +134,7 @@ Just like **Lazygit** and **Lazydocker** integrate with Helix, `akme.sh` takes t
 
 ## **Future Roadmap**
 
-- **Persistent session mode (`--session`)** – Keep an interactive REPL open using `tmux`.
-- **More quality-of-life scripts** (e.g., `morning.sh`, `evening.sh`, `fetch-notes.sh`).
-- **More seamless execution patterns** – Beyond piping, exploring **deeper integration.**
+- **Persistent session mode (`--session`)** – Keep an interactive REPL open using FIFO pipes.
 
 ## **Contributing**
 
